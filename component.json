@@ -1,0 +1,13 @@
+{
+  "name": "jquery-ui",
+  "version": "1.10.0pre",
+  "description": "jQuery UI component",
+  "keywords": [
+    "jquery-ui",
+    "component"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
